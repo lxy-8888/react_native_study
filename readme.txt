@@ -1,0 +1,1 @@
+study react native do douban movie app
